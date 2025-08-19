@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aadya Bhasin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=💻+Full+Stack+Developer;⚡+Java+Specialist;🔍+Problem+Solver+in+C%2B%2B;🚀+Lifelong+Learner;📚+DSA+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=💻+Full+Stack+Developer;⚡+Java+Specialist;🔍+Problem+Solver+in+Java;🚀+Lifelong+Learner;📚+DSA+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 - 🌱 Currently improving **DSA in Java** & mastering **Java Fullstack**
 - 🤝 Open to collaborating on **Web Development & Open Source Projects**
 - 👨‍💻 Explore my work: [GitHub Repositories](https://github.com/aadyabhasin?tab=repositories)
-- 💬 Ask me about **C++, MERN Stack, REST APIs, Databases**
+- 💬 Ask me about **Java, SpringBoot, REST APIs, Databases**
 - 📫 Email: **aadyabhasin2002@gmail.com**
 - ⚡ Fun fact: **I’m a huge art fan!**
 
@@ -27,7 +27,7 @@
 
 ### 🛠 Languages & Tools:
 <p>
-<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/Java-original.svg" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
