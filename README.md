@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aadya Bhasin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=💻+Full+Stack+Developer;⚡+MERN+Stack+Specialist;🔍+Problem+Solver+in+C%2B%2B;🚀+Lifelong+Learner;📚+DSA+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=💻+Full+Stack+Developer;⚡+Java+Specialist;🔍+Problem+Solver+in+C%2B%2B;🚀+Lifelong+Learner;📚+DSA+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently improving **Advanced DSA in C++** & mastering **MERN Stack**
+- 🌱 Currently improving **DSA in Java** & mastering **Java Fullstack**
 - 🤝 Open to collaborating on **Web Development & Open Source Projects**
 - 👨‍💻 Explore my work: [GitHub Repositories](https://github.com/aadyabhasin?tab=repositories)
 - 💬 Ask me about **C++, MERN Stack, REST APIs, Databases**
